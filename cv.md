@@ -1,3 +1,7 @@
 # MIKHAIL YAKAULEU
 
-Software Intern
+_Software Intern_
+
+## SKILLS:
+
+_CSS, HTML, REACT, JAVA SCRIPT, SCRATCH_
