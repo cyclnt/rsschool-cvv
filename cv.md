@@ -11,3 +11,11 @@ _Software Intern_
 - **JavaScript**
 
 * **~~Scratch~~**
+
+## Contacts:
+
+[Telegram](https://t.me/cyclnt)
+
+[Instagram](https://instagram.com/cyclnt)
+
+[GitHub](https://github.com/cyclnt)
