@@ -12,6 +12,12 @@ _Software Intern_
 
 * **~~Scratch~~**
 
+# Language Skills
+
+**_English В2_**
+
+**_Deutsch B_**
+
 ## Contacts:
 
 [Telegram](https://t.me/cyclnt)
