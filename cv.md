@@ -18,6 +18,10 @@ _Software Intern_
 
 **_Deutsch B_**
 
+## _Education:_
+
+_2018: Graduated from the Faculty of Foreign Languages of Gomel State University of Fr. Skoryna._
+
 ## Contacts:
 
 [Telegram](https://t.me/cyclnt)
