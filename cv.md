@@ -1,1 +1,3 @@
-#MIKHAIL UAKAULEU
+# MIKHAIL YAKAULEU
+
+Software Intern
