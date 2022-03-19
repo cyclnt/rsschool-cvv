@@ -4,4 +4,4 @@ _Software Intern_
 
 ## SKILLS:
 
-_CSS, HTML, REACT, JAVA SCRIPT, SCRATCH_
+_Git, CSS, HTML, React, JavaScript, Scratch_
