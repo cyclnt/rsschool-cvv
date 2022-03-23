@@ -28,4 +28,4 @@ _2018: Graduated from the Faculty of Foreign Languages of Gomel State University
 
 [Instagram](https://instagram.com/cyclnt)
 
-[GitHub](https://github.com/cyclnt)git checkout -b iss53
+[GitHub](https://github.com/cyclnt)
