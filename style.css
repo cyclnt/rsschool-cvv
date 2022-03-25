@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100%;
-  background: url(background.jpg);
+
   background-size: cover;
   font-size: 16px;
   font-weight: normal;
@@ -10,5 +10,16 @@ body {
 .avatar {
   width: 250px;
   border-radius: 28px;
-  box-shadow: 4px 4px 14px rgba (0, 0, 0, 025);
+}
+.info p {
+  color: rgb(71, 180, 180);
+  font-style: italic;
+}
+.container {
+  max-width: 75%;
+  margin: auto;
+}
+.contacts {
+  background: rgb(71, 180, 180);
+  padding: 15px;
 }
