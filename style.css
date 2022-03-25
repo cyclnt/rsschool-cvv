@@ -4,3 +4,18 @@ body {
   background: url(background.jpg);
   background-size: cover;
 }
+#flex-container {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+
+#flex-container > .flex-item {
+  -webkit-flex: auto;
+  flex: auto;
+}
+
+#flex-container > .raw-item {
+  width: 5rem;
+}
