@@ -3,19 +3,12 @@ body {
   height: 100%;
   background: url(background.jpg);
   background-size: cover;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-#flex-container {
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-}
-
-#flex-container > .flex-item {
-  -webkit-flex: auto;
-  flex: auto;
-}
-
-#flex-container > .raw-item {
-  width: 5rem;
+.avatar {
+  width: 250px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba (0, 0, 0, 025);
 }
