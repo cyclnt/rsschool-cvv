@@ -1,7 +1,7 @@
 body {
   margin: 0;
   height: 100%;
-  box-shadow: 0 0 0 20px black;
+  box-shadow: 0 0 0 40px black;
 
   background-size: cover;
   font-size: 16px;
@@ -41,4 +41,9 @@ a:visited {
   margin-left: 440px;
   position: relative;
   top: -250px;
+  font-style: italic;
+}
+
+h2 {
+  font-style: italic;
 }
