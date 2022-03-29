@@ -1,1 +1,1 @@
-https://cyclnt.github.io/rsschool-cv/rsschool-cv-html/index.html
+https://cyclnt.github.io/rsschool-cv/
