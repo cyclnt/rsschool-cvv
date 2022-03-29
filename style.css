@@ -26,6 +26,10 @@ a:visited {
   border-radius: 28px;
 }
 .info p {
+  margin-left: 440px;
+  position: relative;
+  top: -250px;
+
   color: rgb(71, 180, 180);
   font-style: italic;
 }
@@ -33,14 +37,8 @@ a:visited {
   max-width: 75%;
   margin: auto;
 }
-/*.contacts {
-  background: rgb(71, 180, 180);
-  padding: 15px;
-  border: 5px solid red;
-  margin: 20px;
-}
-.description {
-  color: rgb(71, 180, 180);
-}*/
-.education {
+.myname {
+  margin-left: 440px;
+  position: relative;
+  top: -250px;
 }
